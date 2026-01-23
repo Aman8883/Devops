@@ -5,6 +5,7 @@
 - Setup testing with pytest
 - Learned Git basics
 
-## Day 2: Coming soon...
+## Day 2: Flask app Deployment through Docker
 - Docker containerization
-- CI/CD with GitHub Actions
+- Dockerfile
+- Ports usage
